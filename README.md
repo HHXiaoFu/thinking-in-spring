@@ -55,48 +55,89 @@
 
 # Spring 核心特性
 
-核心特性（Core）
-1️⃣ IoC 容器（IoC Container）
-2️⃣ Spring 事件 （Events）
-3️⃣ 资源管理（Resources）
-4️⃣ 国际化（i18n）
-5️⃣ 校验（Validation）
-6️⃣ 数据绑定（Data Binding）
-7️⃣ 类型转换（Type Conversion）
-8️⃣ Spring 表达式（Spring Express Language）
-9️⃣ 面向切面编程（AOP）
+> 核心特性（Core）
+
+**1️⃣ IoC 容器（IoC Container**
+
+**2️⃣ Spring 事件 （Events）**
+
+**3️⃣ 资源管理（Resources）**
+
+**4️⃣ 国际化（i18n）**
+
+**5️⃣ 校验（Validation）**
+
+**6️⃣ 数据绑定（Data Binding）**
+
+**7️⃣ 类型转换（Type Conversion）**
+
+**8️⃣ Spring 表达式（Spring Express Language）**
+
+**9️⃣ 面向切面编程（AOP）**
 ****
-数据存储（Data Access）
-1️⃣ JDBC
-2️⃣ 事务抽象（Transactions）
-3️⃣ DAO 支持（DAO Support）
-4️⃣ O/R 映射（O/R Mapping）
-5️⃣ XML 编列（XML Marshalling）
+
+> 数据存储（Data Access）
+
+**1️⃣ JDBC**
+
+**2️⃣ 事务抽象（Transactions）**
+
+**3️⃣ DAO 支持（DAO Support）**
+
+**4️⃣ O/R 映射（O/R Mapping）**
+
+**5️⃣ XML 编列（XML Marshalling）**
 ****
-Web 技术（Web）
-1️⃣ Web Servlet 技术栈
+
+> Web 技术（Web）
+
+**1️⃣ Web Servlet 技术栈**
+
 ● Spring MVC
+
 ● WebSocket
+
 ● SockJS
 
-2️⃣ Web Reactive 技术栈
+**2️⃣ Web Reactive 技术栈**
+
 ● Spring WebFlux
+
 ● WebClient
+
 ● WebSocket
+
 ****
-技术整合（Integration）
-1️⃣ 远程调用（Remoting）
-2️⃣ Java 消息服务（JMS）
-3️⃣ Java 连接架构（JCA）
-4️⃣ Java 管理扩展（JMX）
-5️⃣ Java 邮件客户端（Email）
-6️⃣ 本地任务（Tasks）
-7️⃣ 本地调度（Scheduling）
-8️⃣ 缓存抽象（Caching）
-9️⃣ Spring 测试（Testing）
+
+> 技术整合（Integration）
+
+**1️⃣ 远程调用（Remoting）**
+
+**2️⃣ Java 消息服务（JMS）**
+
+**3️⃣ Java 连接架构（JCA）**
+
+**4️⃣ Java 管理扩展（JMX）**
+
+**5️⃣ Java 邮件客户端（Email）**
+
+**6️⃣ 本地任务（Tasks）**
+
+**7️⃣ 本地调度（Scheduling）**
+
+**8️⃣ 缓存抽象（Caching）**
+
+**9️⃣ Spring 测试（Testing）**
+
+
 ****
-测试（Testing）
-1️⃣ 模拟对象（Mock Objects）
-2️⃣ TestContext 框架（TestContext Framework）
-3️⃣ Spring MVC 测试（Spring MVC Test）
-4️⃣ Web测试客户端（Web Test Client）
+
+> 测试（Testing）
+
+**1️⃣ 模拟对象（Mock Objects）**
+
+**2️⃣ TestContext 框架（TestContext Framework）**
+
+**3️⃣ Spring MVC 测试（Spring MVC Test）**
+
+**4️⃣ Web测试客户端（Web Test Client）**
